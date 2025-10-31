@@ -55,15 +55,15 @@ This is a dramatic seascape photograph focusing on a massive, turquoise-blue wav
 
 ### Basic Prompt	
 
-"A wave crashing against a cliff"
+"A cat playing with butterfly"
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/72ccd9d3-b212-4590-8ce7-b91182744e6f" />
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/3371f966-69f8-4904-87a2-c7d9d1dad127" />
 
 ### Final Prompt
 
-"Dramatic seascape photography, long exposure. Massive turquoise-blue wave violently crashing against dark, jagged coastal cliffs. The water is rendered with smooth, white motion blur (silky water effect) against the rough, high-detail rock texture. Low-angle perspective emphasizing the scale of the foam and spray. Bright sunlight, high contrast, highly detailed."
+“A playful tricolor cat (white, orange, and brown fur) jumping in a sunlit garden while trying to catch a butterfly. The cat is mid-air with its front paws raised, looking focused on the butterfly flying just in front of it. The scene is bright and natural with lush green grass, colorful flowers (mainly orange and yellow), and a soft blurred background of bushes and trees. The lighting is warm, suggesting a sunny afternoon, and the image has a realistic photographic style.”
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9e542a3-aa20-43af-adf1-5fdfe8c18160" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/43fe56eb-c499-45aa-b951-ff3b062b4374" />
 
 ### Comparison Report Summary
 
